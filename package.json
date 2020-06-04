@@ -1,0 +1,23 @@
+{
+  "name": "gitRocketseat",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"><img src=\"https://i.ibb.co/Kbpy6hM/new.png\" /></h1> <h2 align=\"center\">Impulsione sua carreira com as melhores tecnologias do mercado</h2>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node nlw/src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayansED/Rocketseat---Next-Level-Week.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Sayans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayansED/Rocketseat---Next-Level-Week/issues"
+  },
+  "homepage": "https://github.com/SayansED/Rocketseat---Next-Level-Week#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
