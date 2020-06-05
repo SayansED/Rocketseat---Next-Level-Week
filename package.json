@@ -4,7 +4,7 @@
   "description": "<h1 align=\"center\"><img src=\"https://i.ibb.co/Kbpy6hM/new.png\" /></h1> <h2 align=\"center\">Impulsione sua carreira com as melhores tecnologias do mercado</h2>",
   "main": "src/server.js",
   "scripts": {
-    "start": "node nlw/src/server.js"
+    "start": "nodemon nlw/src/server.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/SayansED/Rocketseat---Next-Level-Week#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.1"
   }
 }
