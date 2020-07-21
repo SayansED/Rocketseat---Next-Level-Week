@@ -30,42 +30,31 @@ O Ecoleta têm por função criar uma conexão com as empresas/entidades que col
 
 #### Acesse a prototipagem do projeto [Clicando aqui.](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=4%3A422)
 
-## Tecnologias
-### Servidor
+## 🚀 Tecnologias
 
-• [Nodejs](https://nodejs.org/en/)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-• [TypeScript](https://www.typescriptlang.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 
--- Dependências --
+## 💻 Projeto
 
-• [Express](https://expressjs.com/pt-br/)
+O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
 
-• [Knex](http://knexjs.org/)
+## 🔖 Layout
 
-Banco de Dados
+Você pode visualizar o layout do projeto no formato através [desse link](<https://www.figma.com/file/Byw4X5etg8VCmezueyhzkC/Ecoleta-(Starter)?node-id=136%3A546>). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
-• [SQLite](https://www.sqlite.org/index.html)
+## 🤔 Como contribuir
 
-### Web
+- Faça um fork desse repositório;
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
+- Faça push para a sua branch: `git push origin minha-feature`.
 
-• [ReactJS](https://pt-br.reactjs.org/)
-
--- Dependências --
-
-Por vir!
-
-### Mobile
-
-• [React Native](https://reactnative.dev/)
-
--- Dependências --
-
-Por vir!
-
-## Começando :heavy_check_mark:
-
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local.
+Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ### Pré-requisitos :pencil:
 
